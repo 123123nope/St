@@ -1,0 +1,17 @@
+{
+  "name": "your-app-name",
+  "version": "1.0.0",
+  "description": "Your app description",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cypress:run": "cypress run"
+  },
+  "dependencies": {
+    // your dependencies here
+  },
+  "devDependencies": {
+    "jest": "^27.0.0",
+    "cypress": "^8.0.0"
+  }
+}
