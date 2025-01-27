@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "test": "npm install && npm run test",
+    "launch": "cat package.json"
+  }
+}
